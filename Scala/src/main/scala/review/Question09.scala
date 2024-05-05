@@ -1,5 +1,3 @@
-package review
-
 object Question09 {
 
   //val tape = List('C','H','A','R')

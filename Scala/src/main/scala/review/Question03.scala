@@ -1,5 +1,3 @@
-package review
-
 object Question03 {
   
 
