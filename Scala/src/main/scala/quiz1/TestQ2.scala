@@ -1,3 +1,5 @@
+package quiz1
+
 
 object TestQ2 {
   def add(x:Int,y:Int):Int ={

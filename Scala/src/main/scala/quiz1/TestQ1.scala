@@ -1,3 +1,5 @@
+package quiz1
+
 
 object TestQ1 {
   def main(args: Array[String]): Unit = {

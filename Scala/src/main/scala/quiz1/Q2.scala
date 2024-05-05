@@ -1,3 +1,5 @@
+package quiz1
+
 
 
 object Q2 {
@@ -9,11 +11,10 @@ object Q2 {
   }
 
   def indivOp(l1:List[Int], l2: List[Int], l3:List[(Int,Int) => Int], acc:List[Int]): List[Int] = {
-     //write this version 
+     //write this version
 
 
-
-
-  } 
+    return List()
+  }
 
 }
